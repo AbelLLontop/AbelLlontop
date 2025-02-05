@@ -6,5 +6,5 @@
 Desarrollador especializado en la creación de interfaces interactivas.
 ```
 Me encanta el desarrollo de software, analisis de datos,
-inteligencia artificial y todo lo que tenga que ver con tecnologia.
+inteligencia artificial y todo lo relacionado con la tecnologia.
 ```
