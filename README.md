@@ -21,6 +21,5 @@
 <p align="center">
   <em>
     “La simplicidad llevada al extremo se convierte en elegancia.”<br/>
-    <strong>– Abel</strong>
   </em>
 </p>
